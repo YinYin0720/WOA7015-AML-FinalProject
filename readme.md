@@ -66,7 +66,7 @@
 
 ## Model Inference and Metrics Plotting Code
 
-- **Link**: [Model_Inference_and_Metrics_Plotting](https://www.kaggle.com/code/liewliew/7015-aa-a13469-1aadfd)
+- **Link**: [Model_Inference_and_Metrics_Plotting](https://github.com/YinYin0720/WOA7015-AML-FinalProject/blob/main/Model_Inference_and_Metrics_Plotting.ipynb)
 - **File**: `Model_Inference_and_Metrics_Plotting.ipynb`
 - **Content**: 
   - Best models selected from all training epochs based on validation F1 scores.
@@ -77,7 +77,7 @@
 
 ## All Model Training Code
 
-- **Link**: [All_Model_Training_Code](https://www.kaggle.com/code/liewliew/fork-of-last-version-final)
+- **Link**: [All_Model_Training_Code](https://github.com/YinYin0720/WOA7015-AML-FinalProject/blob/main/All_Model_Training_Code.ipynb)
 - **File**: `All_Model_Training_Code.ipynb`
 - **Content**:
   - Contains training code for all models.
